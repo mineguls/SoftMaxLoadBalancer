@@ -200,4 +200,3 @@ Softmax < Random (average latency)
 
 ---
 
-İstersen sana **hocaya çok profesyonel görünen akademik README (yüksek notluk versiyon)** da hazırlayabilirim. Bu hali iyi ama biraz daha güçlendirilebilir.
